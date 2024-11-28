@@ -24,5 +24,7 @@ data/
 Thumbs.db
 
 # Ignore matplotlib style file
-rose-pine-dawn.mplstyle
 *.mplstyle
+
+# Ignore rose-pine-dawn.mplstyle file
+rose-pine-dawn.mplstyle
