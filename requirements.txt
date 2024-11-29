@@ -3,4 +3,7 @@ pandas
 scikit-learn
 seaborn
 matplotlib
-
+optuna==4.1.0
+xgboost==1.7.5
+lightgbm==3.3.5
+catboost==1.2
